@@ -11,3 +11,7 @@ a {
 a:hover {
     color: aqua;
 }
+mark {
+    color: bisque;
+    background-color: black;
+}
