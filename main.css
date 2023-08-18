@@ -1,0 +1,13 @@
+html {
+    font-size: 20px;
+}
+body {
+    background-color: #2E3836;
+    color: white;
+}
+a {
+    color: lightgreen;
+}
+a:hover {
+    color: aqua;
+}
